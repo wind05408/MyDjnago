@@ -12,3 +12,6 @@ def app1_handle_args(args):
 
 def app1_info(request):
     pass
+
+def test(param):
+    pass
